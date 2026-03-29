@@ -1,0 +1,5 @@
+{
+  "name": "Royale JS",
+  "description": "A real-time multiplayer Clash Royale clone built with React, Canvas, and Socket.io.",
+  "requestFramePermissions": []
+}
